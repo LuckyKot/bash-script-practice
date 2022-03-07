@@ -7,7 +7,7 @@ then
 echo "This is a targetted version of jam"
 echo "Please, enter a MAC address of target"
 echo "Syntax: ./jamC.sh 00:00:00:00:00:00 00:00:00:00:00:00"
-each "First MAC is Router, second MAC is the device to deauth"
+each "First MAC is Access Point, second MAC is the device to deauth"
 
 else
 
